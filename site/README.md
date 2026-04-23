@@ -2,6 +2,8 @@
 
 This directory contains the GitHub Pages website for the Tor VPN System.
 
+**Last updated:** April 23, 2026
+
 ## Structure
 
 - `index.html` - Main homepage
