@@ -357,6 +357,6 @@ Please read and follow our [Code of Conduct](docs/CODE_OF_CONDUCT.md).
 
 **Made with ❤️ by the Tor VPN System community**
 
-[⭐ Star](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM) • [🍴 Fork](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/fork) • [📖 Docs](docs/INDEX.md) • [🐛 Issues](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/issues)
+[Star](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM) • [Fork](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/fork) • [Docs](docs/INDEX.md) • [Issues](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/issues)
 
 </div>
