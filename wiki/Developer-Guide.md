@@ -30,7 +30,7 @@ This guide is for developers who want to contribute to the Tor VPN System.
 #### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/tor_vpn.git
+git clone https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM.git
 cd tor_vpn
 ```
 

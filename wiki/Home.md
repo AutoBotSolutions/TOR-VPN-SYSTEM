@@ -57,7 +57,7 @@ The Tor VPN System is a comprehensive management tool for the Tor network that i
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/tor_vpn.git
+git clone https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM.git
 cd tor_vpn
 
 # Create virtual environment
@@ -171,8 +171,8 @@ This project is licensed under the MIT License. See [LICENSE](../LICENSE) for de
 ## Support
 
 - **Documentation**: Check the wiki pages
-- **Issues**: [GitHub Issues](https://github.com/your-username/tor_vpn/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/tor_vpn/discussions)
+- **Issues**: [GitHub Issues](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/discussions)
 - **Email**: [To be added]
 
 ## Contributing
@@ -209,7 +209,7 @@ See [CHANGELOG](../CHANGELOG.md) for complete version history.
 
 ## Quick Links
 
-- [Main Repository](https://github.com/your-username/tor_vpn)
+- [Main Repository](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM)
 - [Documentation Index](../docs/INDEX.md)
 - [Installation Guide](Installation)
 - [API Reference](API-Reference)

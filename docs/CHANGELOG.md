@@ -198,7 +198,7 @@ We follow Semantic Versioning (MAJOR.MINOR.PATCH):
 
 ## Links
 
-- [Repository](https://github.com/your-username/tor_vpn)
+- [Repository](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM)
 - [Documentation](docs/INDEX.md)
-- [Issues](https://github.com/your-username/tor_vpn/issues)
+- [Issues](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/issues)
 - [Contributing](docs/CONTRIBUTING.md)

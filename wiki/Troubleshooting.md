@@ -808,8 +808,8 @@ Include:
 
 ### Community Resources
 
-- **GitHub Issues**: [Report issues](https://github.com/your-username/tor_vpn/issues)
-- **GitHub Discussions**: [Ask questions](https://github.com/your-username/tor_vpn/discussions)
+- **GitHub Issues**: [Report issues](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/issues)
+- **GitHub Discussions**: [Ask questions](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/discussions)
 - **Documentation**: [docs/INDEX.md](../docs/INDEX.md)
 
 ---

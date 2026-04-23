@@ -59,7 +59,7 @@ sudo apt install -y python3 python3-pip python3-venv tor iptables-persistent zen
 #### Step 3: Clone Repository
 ```bash
 cd /home/your-user
-git clone https://github.com/your-username/tor_vpn.git
+git clone https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM.git
 cd tor_vpn
 ```
 
@@ -105,7 +105,7 @@ sudo dnf install -y python3 python3-pip tor iptables zenity
 #### Step 3: Clone Repository
 ```bash
 cd /home/your-user
-git clone https://github.com/your-username/tor_vpn.git
+git clone https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM.git
 cd tor_vpn
 ```
 
@@ -147,7 +147,7 @@ sudo pacman -S python python-pip tor iptables zenity
 #### Step 3: Clone Repository
 ```bash
 cd /home/your-user
-git clone https://github.com/your-username/tor_vpn.git
+git clone https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM.git
 cd tor_vpn
 ```
 
@@ -194,7 +194,7 @@ brew install --cask zenity  # For GUI scripts
 #### Step 3: Clone Repository
 ```bash
 cd ~/Documents
-git clone https://github.com/your-username/tor_vpn.git
+git clone https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM.git
 cd tor_vpn
 ```
 
@@ -234,7 +234,7 @@ sudo port install python311 tor zenity
 #### Step 3: Clone Repository
 ```bash
 cd ~/Documents
-git clone https://github.com/your-username/tor_vpn.git
+git clone https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM.git
 cd tor_vpn
 ```
 
@@ -278,7 +278,7 @@ pip --version
 #### Step 3: Clone Repository
 ```cmd
 cd C:\Users\YourUser\Documents
-git clone https://github.com/your-username/tor_vpn.git
+git clone https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM.git
 cd tor_vpn
 ```
 

@@ -407,7 +407,7 @@ See the [Wiki Home](Home) for a complete list of documentation.
 
 - Check the [Troubleshooting](Troubleshooting) page
 - Review the [Documentation Index](../docs/INDEX.md)
-- Search existing [GitHub Issues](https://github.com/your-username/tor_vpn/issues)
+- Search existing [GitHub Issues](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/issues)
 - Create a new issue with details
 
 ### Is there a community forum?
@@ -436,7 +436,7 @@ If your question isn't answered here:
 
 1. Check the [Wiki Home](Home) for more documentation
 2. Review [Troubleshooting](Troubleshooting) for common issues
-3. Search existing [GitHub Issues](https://github.com/your-username/tor_vpn/issues)
+3. Search existing [GitHub Issues](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/issues)
 4. Create a new issue with your question
 
 ---

@@ -9,7 +9,7 @@
 
 **A comprehensive Tor VPN management system with GUI and CLI interfaces**
 
-[Documentation](docs/INDEX.md) • [Installation](docs/INSTALL.md) • [Contributing](CONTRIBUTING.md) • [Issues](https://github.com/your-org/tor_vpn/issues)
+[Documentation](docs/INDEX.md) • [Installation](docs/INSTALL.md) • [Contributing](CONTRIBUTING.md) • [Issues](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/issues)
 
 </div>
 
@@ -73,7 +73,7 @@ tor_vpn/
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tor_vpn.git
+git clone https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM.git
 cd tor_vpn
 ```
 
@@ -135,17 +135,17 @@ python tor_diagnostic_repair.py
 
 ## Documentation
 
-Comprehensive documentation is available in the [docs/](docs/) directory:
+Comprehensive documentation is available in the [docs/](./) directory:
 
-- **[INDEX.md](docs/INDEX.md)** - Documentation navigation index
-- **[README.md](docs/README.md)** - Detailed system documentation
-- **[INSTALL.md](docs/INSTALL.md)** - Detailed installation guide
-- **[CONTRIBUTING.md](docs/CONTRIBUTING.md)** - Contributing guidelines
-- **[DEVELOPMENT.md](docs/DEVELOPMENT.md)** - Development setup guide
-- **[python-scripts.md](docs/python-scripts.md)** - Python scripts documentation
-- **[shell-scripts.md](docs/shell-scripts.md)** - Shell scripts documentation
-- **[configuration-files.md](docs/configuration-files.md)** - Configuration files documentation
-- **[architecture.md](docs/architecture.md)** - Architecture and workflow documentation
+- **[INDEX.md](INDEX.md)** - Documentation navigation index
+- **[README.md](README.md)** - Detailed system documentation
+- **[INSTALL.md](INSTALL.md)** - Detailed installation guide
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Contributing guidelines
+- **[DEVELOPMENT.md](DEVELOPMENT.md)** - Development setup guide
+- **[python-scripts.md](python-scripts.md)** - Python scripts documentation
+- **[shell-scripts.md](shell-scripts.md)** - Shell scripts documentation
+- **[configuration-files.md](configuration-files.md)** - Configuration files documentation
+- **[architecture.md](architecture.md)** - Architecture and workflow documentation
 
 ## Features in Detail
 
@@ -264,15 +264,15 @@ Supports multiple authentication methods:
 
 ### Getting Help
 
-- Check [documentation](docs/INDEX.md)
-- Review [troubleshooting section](docs/README.md#troubleshooting)
+- Check [documentation](INDEX.md)
+- Review [troubleshooting section](README.md#troubleshooting)
 - Run diagnostic tools
-- Check existing [issues](https://github.com/your-username/tor_vpn/issues)
+- Check existing [issues](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/issues)
 - Create a new issue with details
 
 ## Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### Quick Contribution Guide
 
@@ -343,8 +343,8 @@ This software is provided for educational and research purposes. Use of Tor and 
 ## Contact and Support
 
 - **Documentation**: [docs/INDEX.md](docs/INDEX.md)
-- **Issues**: [GitHub Issues](https://github.com/your-org/tor_vpn/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-org/tor_vpn/discussions)
+- **Issues**: [GitHub Issues](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/discussions)
 - **Email**: [To be added - replace with contact email]
 
 ## Code of Conduct
@@ -357,6 +357,6 @@ Please read and follow our [Code of Conduct](docs/CODE_OF_CONDUCT.md).
 
 **Made with ❤️ by the Tor VPN System community**
 
-[⭐ Star](https://github.com/your-org/tor_vpn) • [🍴 Fork](https://github.com/your-org/tor_vpn/fork) • [📖 Docs](docs/INDEX.md) • [🐛 Issues](https://github.com/your-org/tor_vpn/issues)
+[⭐ Star](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM) • [🍴 Fork](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/fork) • [📖 Docs](docs/INDEX.md) • [🐛 Issues](https://github.com/AutoBotSolutions/TOR-VPN-SYSTEM/issues)
 
 </div>
