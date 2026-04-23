@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+!TOR VPN/lib/
 
 # C extensions
 *.so
+!TOR VPN/lib/
 
 # Distribution / packaging
 .Python
@@ -16,6 +18,7 @@ eggs/
 .eggs/
 lib/
 lib64/
+!TOR VPN/lib
 parts/
 sdist/
 var/
