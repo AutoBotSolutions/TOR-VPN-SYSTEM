@@ -1,0 +1,10 @@
+# Tor VPN System Dependencies
+
+# Tor Control Library
+stem~=1.8.2
+
+# System and Process Utilities
+psutil~=7.0.0
+
+# HTTP Library for Network Testing
+requests~=2.31.0

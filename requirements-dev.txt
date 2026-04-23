@@ -1,0 +1,46 @@
+# Development Dependencies for Tor VPN System
+
+# Testing Frameworks
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.0
+pytest-asyncio>=0.21.0
+
+# Code Quality Tools
+black>=23.3.0
+flake8>=6.0.0
+pylint>=2.17.0
+mypy>=1.3.0
+isort>=5.12.0
+
+# Pre-commit Hooks
+pre-commit>=3.3.0
+
+# Documentation
+sphinx>=7.0.0
+sphinx-rtd-theme>=1.2.0
+mkdocs>=1.5.0
+mkdocs-material>=9.1.0
+
+# Security Tools
+bandit>=1.7.5
+safety>=2.3.5
+
+# Profiling
+memory-profiler>=0.61.0
+py-spy>=0.3.14
+
+# Build Tools
+build>=0.10.0
+twine>=4.0.0
+setuptools>=67.7.0
+
+# Type Stubs
+types-requests>=2.31.0
+
+# Development Utilities
+ipython>=8.13.0
+ipdb>=0.13.13
+
+# CI/CD
+tox>=4.5.0
