@@ -186,3 +186,6 @@ tor_management_gui.log
 # Keep example configs but ignore actual configs
 *.example
 !config.example
+
+# Wiki folder (managed separately in GitHub Wiki)
+wiki/
